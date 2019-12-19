@@ -15,7 +15,7 @@ import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
 
-//Kommentar
+//Kommentar das hat gut geklapp
 public class MainActivity extends AppCompatActivity {
 
     private Button btnSendRequest;
